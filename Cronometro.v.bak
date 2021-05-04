@@ -1,0 +1,12 @@
+module root (clock0, mostrador, reset, conta, para, pausa);
+
+input clock0, reset, conta, para, pausa;
+output mostrador;
+
+wire cont_proj;
+
+contador_Relogio cont(clock0,cont_proj);
+
+Projeto2 projeto(cont_proj, mostrador, reset, conta, para, pausa);
+
+endmodule

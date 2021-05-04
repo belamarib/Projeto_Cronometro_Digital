@@ -1,0 +1,77 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clock'
+Slack : -3.458
+TNS   : -143.128
+
+Type  : Slow 1200mV 85C Model Setup 'botao[0]'
+Slack : -1.992
+TNS   : -7.312
+
+Type  : Slow 1200mV 85C Model Hold 'clock'
+Slack : 0.342
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'botao[0]'
+Slack : 0.448
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -49.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'botao[0]'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Setup 'clock'
+Slack : -3.049
+TNS   : -124.851
+
+Type  : Slow 1200mV 0C Model Setup 'botao[0]'
+Slack : -1.700
+TNS   : -6.384
+
+Type  : Slow 1200mV 0C Model Hold 'clock'
+Slack : 0.297
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'botao[0]'
+Slack : 0.433
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -49.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'botao[0]'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Setup 'clock'
+Slack : -2.100
+TNS   : -86.712
+
+Type  : Fast 1200mV 0C Model Setup 'botao[0]'
+Slack : -1.262
+TNS   : -3.540
+
+Type  : Fast 1200mV 0C Model Hold 'botao[0]'
+Slack : 0.164
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clock'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -52.559
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'botao[0]'
+Slack : -3.000
+TNS   : -3.000
+
+------------------------------------------------------------

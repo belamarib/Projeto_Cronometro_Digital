@@ -1,0 +1,7 @@
+
+State Machine - |Cronometro|espera
+Name espera.11 espera.10 espera.01 espera.00 
+espera.00 0 0 0 0 
+espera.01 0 0 1 1 
+espera.10 0 1 0 1 
+espera.11 1 0 0 1 

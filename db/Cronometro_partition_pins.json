@@ -1,0 +1,93 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "mostrador0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "mostrador0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "mostrador0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "mostrador0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "mostrador1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "mostrador1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "mostrador1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "mostrador1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "mostrador2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "mostrador2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "mostrador2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "mostrador2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "mostrador3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "mostrador3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "mostrador3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "mostrador3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				},
+				{
+					"name" : "botao[0]",
+					"strict" : false
+				},
+				{
+					"name" : "botao[1]",
+					"strict" : false
+				},
+				{
+					"name" : "botao[2]",
+					"strict" : false
+				},
+				{
+					"name" : "botao[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
