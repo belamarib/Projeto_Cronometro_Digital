@@ -5,3 +5,5 @@ Equipe:
 1. Amanda Alves Guimarães
 2. Isabela Marinho Ribeiro
 3. Pietro Bernardo Santos Masur
+
+OBS: É necessário apertar o botão ```RESET``` ao inicializar o cronômetro.
